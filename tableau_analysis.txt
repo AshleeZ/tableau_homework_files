@@ -1,0 +1,15 @@
+Phenomenon 1:
+There is an extremely large amount of trips made by users whose birth year is 1969. 
+In the Trips-Usertype and Trips-Gender visualizations, we can see that most of these trips were made by regular customers who decided to not disclose their gender. 
+In the Users per Gender visualization we can see that most people who choose to stay gender unknown are regular customers, 
+    but they were also the smallest group of users at less than 100,000. 
+In the trip duration visualization, we can see that users whose birth year was 1969 accounted for the longest trip duration for the month of January 2021 as well. 
+This suggests that the phenomenon might be caused by a small number of customers or possibly a single customer who is using the bikes a lot. 
+The max trip duration and high average trip duration for 1969 seems to suggest this as well as the high number of trips per day for 1969 users compared to other birthyears.
+
+Phenomenon 2:
+The top stations to start and end at are almost identical. 
+This suggests that most users return bikes at or near the stations that they received them. 
+The top stations are also mostly situated in the lower Manhattan area. 
+This could mean that users enjoy biking around Manhattan or that it is the most suitable area for biking. 
+The Trips per Day visualization however shows dips in the number of trips on the weekends and this could suggest that people are using the bike sharing service as a form of commute to work.
